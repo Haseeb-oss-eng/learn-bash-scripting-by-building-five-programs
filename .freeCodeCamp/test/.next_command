@@ -103,3 +103,4 @@ help [[ expression ]]
 __vsc_prompt_cmd_original
 help test
 [[ -x countdown.sh ]]
+help [[ expression ]]
